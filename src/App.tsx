@@ -6,22 +6,6 @@ import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 
 const App: React.FC = () => {
-  // Scroll to hash on mount or hash change
-  useEffect(() => {
-    const scrollToHash = () => {
-      if (window.location.hash) {
-        const id = window.location.hash.replace("#", "");
-        const el = document.getElementById(id);
-        if (el) {
-          el.scrollIntoView({ behavior: "smooth" });
-        }
-      }
-    };
-    // Try scrolling after render
-    setTimeout(scrollToHash, 100);
-    window.addEventListener("hashchange", scrollToHash);
-    return () => window.removeEventListener("hashchange", scrollToHash);
-  }, []);
 
   return (
     <Router>
