@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/DonH001/portfolio.git/static/css/main.2785b790.css",
-    "main.js": "/DonH001/portfolio.git/static/js/main.e0ec86aa.js",
-    "static/media/umap2.png": "/DonH001/portfolio.git/static/media/umap2.312497b379f46786609c.png",
-    "static/media/umapthree.png": "/DonH001/portfolio.git/static/media/umapthree.83320d54da93cc6513fd.png",
-    "static/media/umapfour.png": "/DonH001/portfolio.git/static/media/umapfour.cd6ea363f5aee6d89521.png",
-    "static/media/umap1.png": "/DonH001/portfolio.git/static/media/umap1.0f8bae09d055117d448f.png",
-    "static/media/erp.png": "/DonH001/portfolio.git/static/media/erp.91cb0d17b13efa95bf70.png",
-    "static/media/cruds_dashboard.png": "/DonH001/portfolio.git/static/media/cruds_dashboard.d024a5bf642b1572d46a.png",
-    "static/media/crud_status.png": "/DonH001/portfolio.git/static/media/crud_status.e64812e933229e3ffdfd.png",
-    "static/media/cruds.png": "/DonH001/portfolio.git/static/media/cruds.74553eefb52d7ff685ea.png",
-    "static/media/crud_users.png": "/DonH001/portfolio.git/static/media/crud_users.1afc6207bd933cbd740f.png",
-    "static/media/profile.png": "/DonH001/portfolio.git/static/media/profile.c10b72861b3bb7e11218.png",
-    "static/media/htmlcss.png": "/DonH001/portfolio.git/static/media/htmlcss.2f80a57b088d6391be8f.png",
-    "static/media/php.png": "/DonH001/portfolio.git/static/media/php.e5346a9d46be142f2209.png",
-    "static/media/python.png": "/DonH001/portfolio.git/static/media/python.b2763c38b78daca6478d.png",
-    "static/media/cpp.png": "/DonH001/portfolio.git/static/media/cpp.e81a8e1aac4cbad69716.png",
-    "static/media/java.png": "/DonH001/portfolio.git/static/media/java.812d284210484ba16bc6.png",
-    "static/media/typescript.png": "/DonH001/portfolio.git/static/media/typescript.6e74dbaec29439cbedba.png",
-    "static/media/javascript.png": "/DonH001/portfolio.git/static/media/javascript.12f876633edec961f681.png",
-    "index.html": "/DonH001/portfolio.git/index.html",
-    "main.2785b790.css.map": "/DonH001/portfolio.git/static/css/main.2785b790.css.map",
-    "main.e0ec86aa.js.map": "/DonH001/portfolio.git/static/js/main.e0ec86aa.js.map"
+    "main.css": "/DonH001/portfolio/static/css/main.2785b790.css",
+    "main.js": "/DonH001/portfolio/static/js/main.ca72fdb9.js",
+    "static/media/umap2.png": "/DonH001/portfolio/static/media/umap2.312497b379f46786609c.png",
+    "static/media/umapthree.png": "/DonH001/portfolio/static/media/umapthree.83320d54da93cc6513fd.png",
+    "static/media/umapfour.png": "/DonH001/portfolio/static/media/umapfour.cd6ea363f5aee6d89521.png",
+    "static/media/umap1.png": "/DonH001/portfolio/static/media/umap1.0f8bae09d055117d448f.png",
+    "static/media/erp.png": "/DonH001/portfolio/static/media/erp.91cb0d17b13efa95bf70.png",
+    "static/media/cruds_dashboard.png": "/DonH001/portfolio/static/media/cruds_dashboard.d024a5bf642b1572d46a.png",
+    "static/media/crud_status.png": "/DonH001/portfolio/static/media/crud_status.e64812e933229e3ffdfd.png",
+    "static/media/cruds.png": "/DonH001/portfolio/static/media/cruds.74553eefb52d7ff685ea.png",
+    "static/media/crud_users.png": "/DonH001/portfolio/static/media/crud_users.1afc6207bd933cbd740f.png",
+    "static/media/profile.png": "/DonH001/portfolio/static/media/profile.c10b72861b3bb7e11218.png",
+    "static/media/htmlcss.png": "/DonH001/portfolio/static/media/htmlcss.2f80a57b088d6391be8f.png",
+    "static/media/php.png": "/DonH001/portfolio/static/media/php.e5346a9d46be142f2209.png",
+    "static/media/python.png": "/DonH001/portfolio/static/media/python.b2763c38b78daca6478d.png",
+    "static/media/cpp.png": "/DonH001/portfolio/static/media/cpp.e81a8e1aac4cbad69716.png",
+    "static/media/java.png": "/DonH001/portfolio/static/media/java.812d284210484ba16bc6.png",
+    "static/media/typescript.png": "/DonH001/portfolio/static/media/typescript.6e74dbaec29439cbedba.png",
+    "static/media/javascript.png": "/DonH001/portfolio/static/media/javascript.12f876633edec961f681.png",
+    "index.html": "/DonH001/portfolio/index.html",
+    "main.2785b790.css.map": "/DonH001/portfolio/static/css/main.2785b790.css.map",
+    "main.ca72fdb9.js.map": "/DonH001/portfolio/static/js/main.ca72fdb9.js.map"
   },
   "entrypoints": [
     "static/css/main.2785b790.css",
-    "static/js/main.e0ec86aa.js"
+    "static/js/main.ca72fdb9.js"
   ]
 }
