@@ -42,28 +42,28 @@ const Sidebar: React.FC = () => (
     <nav>
       <ul className="sidebar-menu">
         <li>  
-          <a href="/"><AboutIcon /> About Me</a>
+          <a href="/portfolio/"><AboutIcon /> About Me</a>
         </li>
         <li>
-          <a href="/"><EducationIcon /> Education</a>
+          <a href="/portfolio/"><EducationIcon /> Education</a>
         </li>
         <li>
-          <a href="/"><ExperienceIcon /> Experience</a>
+          <a href="/portfolio/"><ExperienceIcon /> Experience</a>
         </li>
         <li>
-          <a href="/"><CertificateIcon /> Certificates</a>
+          <a href="/portfolio/"><CertificateIcon /> Certificates</a>
         </li>
         <li>
-          <a href="/"><AchievementIcon /> Achievements</a>
+          <a href="/portfolio/"><AchievementIcon /> Achievements</a>
         </li>
         <li>
-          <a href="/"><LanguageIcon /> Programming Languages</a>
+          <a href="/portfolio/"><LanguageIcon /> Programming Languages</a>
         </li>
         <li>
-          <a href="/"><ProjectIcon /> Projects</a>
+          <a href="/portfolio/"><ProjectIcon /> Projects</a>
         </li>
         <li>
-          <a href="/"><ContactIcon /> Contact</a>
+          <a href="/portfolio/"><ContactIcon /> Contact</a>
         </li>
       </ul>
     </nav>
