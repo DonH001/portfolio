@@ -41,7 +41,7 @@ const Sidebar: React.FC = () => (
     </div>
     <nav>
       <ul className="sidebar-menu">
-        <li>
+        <li>  
           <a href="#about"><AboutIcon /> About Me</a>
         </li>
         <li>
