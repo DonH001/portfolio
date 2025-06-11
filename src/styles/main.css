@@ -1077,4 +1077,127 @@ html {
   .contact-card {
     padding: 0.8rem 0.6rem;
   }
+
+  /* Navbar styles */
+.navbar {
+  width: 100%;
+  background: linear-gradient(90deg, #232946 70%, #2563eb 100%);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(35, 41, 70, 0.08);
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  padding: 0.7rem 1.2rem;
+  gap: 1rem;
+}
+
+.navbar-profile-pic {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #60a5fa;
+  background: #fff;
+}
+
+.navbar-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #60a5fa;
+  letter-spacing: 1px;
+}
+
+.navbar-toggle {
+  margin-left: auto;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+  display: none;
+}
+
+.navbar-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0 1.2rem 0.7rem 1.2rem;
+  flex-wrap: wrap;
+}
+
+.navbar-menu li {
+  margin: 0 0.2rem;
+}
+
+.navbar-menu a {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  color: #e0e7ff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1em;
+  border-radius: 8px;
+  padding: 0.4em 0.7em;
+  transition: background 0.2s, color 0.2s;
+}
+.navbar-menu a:hover,
+.navbar-menu a:focus {
+  background: linear-gradient(90deg, #60a5fa 0%, #2563eb 100%);
+  color: #fff;
+}
+
+.navbar-accounts {
+  display: flex;
+  gap: 0.5rem;
+  margin-left: 1rem;
+}
+
+@media (max-width: 900px) {
+  .navbar-menu {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
+    padding: 0 1.2rem 0.7rem 1.2rem;
+    display: none;
+  }
+  .navbar-menu.open {
+    display: flex;
+  }
+  .navbar-toggle {
+    display: block;
+  }
+  .navbar-accounts {
+    flex-direction: row;
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .navbar-brand {
+    padding: 0.5rem 0.7rem;
+  }
+  .navbar-menu {
+    padding: 0 0.7rem 0.5rem 0.7rem;
+  }
+  .navbar-profile-pic {
+    width: 34px;
+    height: 34px;
+  }
+  .navbar-title {
+    font-size: 1rem;
+  }
+}
 }
