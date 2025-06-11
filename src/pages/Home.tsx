@@ -10,14 +10,14 @@ import Contact from "../components/Contact";
 
 const Home: React.FC = () => (
   <div>
-    <AboutMe />
-    <Education />
-    <Experience />
-    <Certificates />
-    <Achievements />
-    <ProgrammingLanguages />
-    <Projects />
-    <Contact />
+    <section id="about"><AboutMe /></section>
+    <section id="education"><Education /></section>
+    <section id="experience"><Experience /></section>
+    <section id="certificates"><Certificates /></section>
+    <section id="achievements"><Achievements /></section>
+    <section id="languages"><ProgrammingLanguages /></section>
+    <section id="projects"><Projects /></section>
+    <section id="contact"><Contact /></section>
   </div>
 );
 
