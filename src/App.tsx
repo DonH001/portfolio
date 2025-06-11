@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
 import Header from "./components/Header";
 import Home from "./pages/Home";
@@ -24,7 +24,7 @@ const App: React.FC = () => {
   }, []);
 
   return (
-    <Router basename="/portfolio">
+    <Router>
       <div className="app-container">
         <Sidebar />
         <div className="main-content">
