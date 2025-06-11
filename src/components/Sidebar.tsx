@@ -87,3 +87,5 @@ const Sidebar: React.FC = () => (
 );
 
 export default Sidebar;
+
+<section id="about">...</section>

@@ -200,6 +200,11 @@ body {
    margin-left: 260px;
    flex: 1;
    padding: 2rem 3rem;
+   
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* Sticky header with gradient */
