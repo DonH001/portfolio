@@ -8,10 +8,10 @@ import phpLogo from "../assets/lang/php.png";
 import htmlcssLogo from "../assets/lang/htmlcss.png";
 
 const languages = [
-  { name: "JavaScript", level: 5, img: jsLogo },
-  { name: "TypeScript", level: 4, img: tsLogo },
-  { name: "Python", level: 4, img: pyLogo },
-  { name: "Java", level: 4, img: javaLogo },
+  { name: "JavaScript", level: 3, img: jsLogo },
+  { name: "TypeScript", level: 3, img: tsLogo },
+  { name: "Python", level: 3, img: pyLogo },
+  { name: "Java", level: 3, img: javaLogo },
   { name: "C++", level: 3, img: cppLogo },
   { name: "PHP", level: 3, img: phpLogo },
   { name: "HTML/CSS", level: 5, img: htmlcssLogo },
