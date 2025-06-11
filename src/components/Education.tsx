@@ -26,7 +26,7 @@ const educationData = [
     highlight: false,
   },
   {
-    school: "San Vicente Elementary School",
+    school: "Cabuluan Elementary School",
     degree: "Elementary",
     year: "2009 – 2015",
     location: "Victoria, Tarlac",

@@ -22,7 +22,7 @@ const achievements = [
   {
     icon: "🏆",
     title: "Academic Excellence",
-    desc: "San Vicente Elementary School, 2015",
+    desc: "Cabuluan Elementary School, 2014",
     highlight: false,
   },
 ];
